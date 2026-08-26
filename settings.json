@@ -1,7 +1,7 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "BOT",
+    "username": "synixthesmpbot",
     "password": "",
     "type": "offline"
   },
@@ -59,31 +59,6 @@
   "modules": {
     "avoidMobs": true,
     "combat": true,
-    "beds": false,
-    "chat": true,
-    "console-commands": true
-  },
-  "combat": {
-    "attack-mobs": true,
-    "auto-eat": true
-  },
-  "beds": {
-    "pick-up-day": false,
-    "place-night": false
-  },
-  "discord": {
-    "enabled": false,
-    "webhookUrl": "",
-    "events": {
-      "connect": true,
-      "disconnect": true,
-      "chat": false
-    }
-  }
-  "chat": {
-    "respond": true
-  }
-}    "combat": true,
     "beds": false,
     "chat": true,
     "console-commands": true
